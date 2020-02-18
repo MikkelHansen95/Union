@@ -14,4 +14,4 @@ Worst case scenario is O(n) if you have to run through all nodes to find the las
            6   |   1   |   7   
          -   - | -   0 | -    8
 
-Worst case scenario is O(log(n)) because you can never run thourg all nodes to find the requested one.
+Worst case scenario is O(log(n)) because you can never run through all nodes to find the requested one.
